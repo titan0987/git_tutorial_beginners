@@ -1,0 +1,6 @@
+# The files and folders in this ( .gitignore file get ignored)
+db.sql
+password.txt
+my_stuffs/
+*.log
+!importand.log
